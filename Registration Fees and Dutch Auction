@@ -1,0 +1,7 @@
+Basenames are priced based on name length to ensure affordability and accessibility:3 letters: 0.1 ETH annually
+4 letters: 0.01 ETH annually
+5–9 letters: 0.001 ETH annually
+10+ letters: 0.0001 ETH annually
+
+At launch, Basenames implements a Dutch auction to prevent bots and ensure fair distribution. The auction starts with a premium of 100 ETH, decaying exponentially over 36 hours. If a name is not renewed after the 90-day grace period, it enters a 21-day Dutch auction starting at 100 ETH, ensuring equitable access to high-demand names.
+
