@@ -1,1 +1,4 @@
 # Basenames-Simplifying-Onchain-Identity-on-the-Base-Network
+
+The Base blockchain, Coinbase’s Layer 2 network built on Ethereum, is transforming the way users interact with blockchain technology by prioritizing accessibility and user-friendly experiences. A cornerstone of this mission is Basenames, a decentralized naming service that allows users to register human-readable names for their wallet addresses, such as “alice.base.eth.” Launched as a core onchain building block, Basenames leverages the Ethereum Name Service (ENS) infrastructure deployed on Base to simplify transactions, enhance identity management, and foster community collaboration. This article explores the features, benefits, and impact of Basenames, highlighting its role in making blockchain interactions seamless and inclusive.
+
