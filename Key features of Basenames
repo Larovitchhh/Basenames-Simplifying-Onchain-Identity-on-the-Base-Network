@@ -1,0 +1,14 @@
+Human-Readable Names: Users can register names like “tom.base.eth” to simplify wallet address interactions, making transactions and app connections more intuitive across Base and other EVM chains.
+
+ENS-Based Infrastructure: Basenames leverages ENS’s battle-tested contracts, including a Registry, BaseRegistrar, RegistrarController, and L2Resolver, to manage subdomain registration and resolution. This ensures secure, decentralized name management.
+
+Gasless Registrations: For users with a Base Account, registrations are gasless, sponsored by Base, reducing barriers to entry and making Basenames accessible to a global audience.
+
+Flexible Registration Periods: Names can be registered for a minimum of one year, with no upper limit, allowing users to secure their Basenames long-term. A 90-day grace period follows expiration, after which unregistered names enter a Dutch auction.
+
+Discounted Registrations: Base offers free or discounted Basenames (5+ letters, one-year registration) for users meeting criteria such as Coinbase Verification, Coinbase One subscription, or holding specific NFTs (e.g., base.eth or cb.id). Discounts are limited to one per address and valued at 0.001 ETH, with BNS name owners receiving a higher 0.01 ETH discount.
+
+Profile Management: Users can set their Basename as their primary name, manage profile records, and transfer ownership via the Basenames UI at base.org/names. This includes updating address resolutions and text records for cross-chain compatibility.
+
+Developer Integration: Builders can integrate Basenames into dApps using OnchainKit, a React component library offering tools like <Avatar> and <Name> components, as well as useAvatar and useName hooks, to display Basenames seamlessly.
+
